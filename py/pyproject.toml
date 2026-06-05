@@ -2,9 +2,15 @@
 name = "verdik"
 version = "0.0.0"
 description = "Pure, decision-logged policy evaluation for MissionCtrl and agent-fabric authorization seams."
+readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/cachetronaut/verdik"
+Repository = "https://github.com/cachetronaut/verdik"
+Issues = "https://github.com/cachetronaut/verdik/issues"
 
 [build-system]
 requires = ["hatchling"]
