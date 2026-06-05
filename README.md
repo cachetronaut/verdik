@@ -1,5 +1,10 @@
 # Verdik
 
+<p align="center">
+  <img src="docs/assets/logo.png" alt="Verdik logo" width="240">
+</p>
+
+
 Pure, decision-logged policy evaluation for MissionCtrl and agent-fabric authorization seams.
 
 Verdik is a primitive with TypeScript and Python implementations maintained in one public repository. The shared repo keeps the public contract, fixtures, issues, and release history aligned across languages.
